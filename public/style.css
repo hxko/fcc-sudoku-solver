@@ -63,10 +63,18 @@ input[type="button"]:hover {
   background-color: #0056b3;
 }
 
-form#check-form p {
-  width: 130px;
-  display: inline-block;
+#check-form {
+  p {
+    width: 130px;
+    display: inline-block;
+  }
+
+  label {
+    display: block;
+    margin-bottom: 3px;
+  }
 }
+
 
 .checker {
   padding: 10px;
@@ -105,8 +113,8 @@ form#check-form p {
 
 #sudoku-grid-container td,
 #sudoku-grid-container th {
-  width: 40px;
-  height: 40px;
+  width: 50px;
+  height: 50px;
   text-align: center;
   vertical-align: middle;
   border: 1px solid #ced4da;
