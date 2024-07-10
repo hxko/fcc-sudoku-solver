@@ -15,34 +15,6 @@ This project is a Sudoku solver application that validates and solves Sudoku puz
 - Node.js
 - npm (Node Package Manager)
 
-## Setup
-
-1. Clone the repository:
-
-    ```sh
-    git clone https://github.com/your-username/sudoku-solver.git
-    cd sudoku-solver
-    ```
-
-2. Install dependencies:
-
-    ```sh
-    npm install
-    ```
-
-3. Set up the environment:
-
-    Create a `.env` file in the root directory and add the following line:
-
-    ```sh
-    NODE_ENV=test
-    ```
-
-4. Run the application:
-
-    ```sh
-    npm start
-    ```
 
 ## File Structure
 
