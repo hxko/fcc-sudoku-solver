@@ -1,6 +1,7 @@
 # Sudoku Solver
 
-This project is a Sudoku solver application that validates and solves Sudoku puzzles. It includes both logic for solving the puzzles and an API for interacting with the solver. The application also includes unit and functional tests to ensure correctness.
+This project is a Sudoku solver application that validates and solves Sudoku puzzles. It includes both logic for solving the puzzles and an API for interacting with the solver.  
+The application also includes unit and functional tests with chai to ensure correctness.
 
 ## Features
 
